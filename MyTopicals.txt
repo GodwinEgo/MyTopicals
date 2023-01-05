@@ -1,4 +1,0 @@
-Landing Page
-Images
-Js
-CSS
